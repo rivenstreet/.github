@@ -1,9 +1,10 @@
+![Rivendell Tech](https://repository-images.githubusercontent.com/966070756/9f9e00a3-f403-49a4-ab31-b3099b0cb950)
+
 ## About Rivendell Tech
 
 **Navigating Global Markets with Strategic Precision.**
 
-Rivendell Tech specializes in global macro asset strategies, leveraging advanced quantitative methods to identify and capitalize on global economic trends.  
-We provide curated insights and educational content to help investors and traders navigate the complexities of global financial markets, with a focus on US indices and their key macro drivers.
+Rivendell Tech specializes in global macro asset strategies, leveraging advanced quantitative methods to identify and capitalize on global economic trends.
 
 Our work blends data-driven research, market intuition, and systematic frameworks to support better decision-making in dynamic environments.
 

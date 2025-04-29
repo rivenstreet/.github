@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Rivendell Tech Support
+    url: mailto:hello@rivendell.trading
+    about: Please contact us directly for urgent issues or private concerns.
+  - name: Rivendell Tech LinkedIn
+    url: https://www.linkedin.com/company/rivendell-tech
+    about: Follow us on LinkedIn for updates and announcements.

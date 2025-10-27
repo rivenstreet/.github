@@ -1,4 +1,4 @@
-![Rivendell Tech](https://repository-images.githubusercontent.com/966070756/d82e336b-26d3-48d7-8d98-106a3ac65633)
+![Rivendell Tech](https://repository-images.githubusercontent.com/966070756/0753b6b8-aabb-4d26-bbe4-ce5169b9153c)
 
 ## About Rivendell Tech
 

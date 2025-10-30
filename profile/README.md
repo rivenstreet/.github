@@ -22,6 +22,14 @@ Systematic trading insights and market analysis focused on global macro trends. 
 
 ---
 
+## **📝 Blog**
+
+**Daily Market Insights** — curated research, trading frameworks, and market intelligence from the Riven Street team.
+
+🔗 [Read the blog](https://rivenstreet.github.io/#/blog)
+
+---
+
 ## **📬 Connect**
 
 * [LinkedIn](https://www.linkedin.com/company/rivenstreet)

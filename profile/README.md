@@ -26,7 +26,7 @@ Systematic trading insights and market analysis focused on global macro trends. 
 
 Curated research, trading frameworks, and market intelligence for disciplined traders and investors.
 
-🔗 [Read our insights](https://rivenstreet.github.io/blog)
+🔗 [Read our insights](https://rivenstreet.com/blog)
 
 ---
 

@@ -22,11 +22,11 @@ Systematic trading insights and market analysis focused on global macro trends. 
 
 ---
 
-## **📝 Blog**
+## **📝 Insights**
 
-**Daily Market Insights** — curated research, trading frameworks, and market intelligence from the Rivendell Tech team.
+Curated research, trading frameworks, and market intelligence for disciplined traders and investors.
 
-🔗 [Read the blog](https://rivendell-tech.github.io/#/blog)
+🔗 [Read our insights](https://rivendell-tech.github.io/blog)
 
 ---
 

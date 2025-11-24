@@ -8,7 +8,7 @@ Riven Street specializes in systematic trading and research, applying quantitati
 
 Our work combines data-driven research, systematic frameworks, and disciplined execution to support better decision-making in dynamic market environments.
 
-> 📌 *Disclaimer: Riven Street provides educational content and curated insights for informational purposes only. This is not financial advice. Always conduct your own research and consult with a licensed professional before making any trading decisions.*
+> 📌 *Disclaimer: Riven Street provides curated insights for informational purposes only. This is not financial advice. Always conduct your own research and consult with a licensed professional before making any trading decisions.*
 
 ---
 

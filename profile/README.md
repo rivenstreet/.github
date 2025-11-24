@@ -8,7 +8,7 @@ Rivendell Tech specializes in systematic trading and research, applying quantita
 
 Our work combines data-driven research, systematic frameworks, and disciplined execution to support better decision-making in dynamic market environments.
 
-> 📌 *Disclaimer: Rivendell Tech provides educational content and curated insights for informational purposes only. This is not financial advice. Always conduct your own research and consult with a licensed professional before making any trading decisions.*
+> 📌 *Disclaimer: Rivendell Tech provides curated insights for informational purposes only. This is not financial advice. Always conduct your own research and consult with a licensed professional before making any trading decisions.*
 
 ---
 

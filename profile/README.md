@@ -1,4 +1,4 @@
-![Riven Street](https://repository-images.githubusercontent.com/966070756/0753b6b8-aabb-4d26-bbe4-ce5169b9153c)
+![Riven Street](https://repository-images.githubusercontent.com/966070756/8d8430ef-8a72-4b0c-8c83-58a4e38d21de)
 
 ## About Riven Street
 
@@ -18,7 +18,7 @@ Our work combines data-driven research, systematic frameworks, and disciplined e
 
 Systematic trading insights and market analysis focused on global macro trends. We break down economic data, policy shifts, and capital flows.
 
-🎧 [Listen on Spotify](https://creators.spotify.com/pod/profile/rivenstreet/)
+🎧 [Listen on Spotify](https://creators.spotify.com/pod/profile/rivenstreet)
 
 ---
 

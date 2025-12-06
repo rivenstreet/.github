@@ -1,6 +1,6 @@
 # .github
 
-Community health files for [@Rivendell Tech](https://github.com/rivendell-tech) organization.
+Community health files for Riven Street organization.
 
 ## Issue Templates
 
@@ -15,4 +15,5 @@ The repository includes the following issue templates to standardize issue repor
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/company/rivendell-tech) | [Email](mailto:hello@rivendell.trading)
+* [LinkedIn](https://www.linkedin.com/company/rivenstreet)
+* [Email](mailto:contact@rivenstreet.com)

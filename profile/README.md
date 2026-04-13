@@ -1,4 +1,4 @@
-![Riven Street](https://repository-images.githubusercontent.com/966070756/7c4f58a5-5f53-42dd-ae50-af35b732c347)
+![Riven Street](https://repository-images.githubusercontent.com/966070756/fb9e999a-25b8-4ad5-8686-fbdf44c13660)
 
 ## About Riven Street
 
@@ -8,13 +8,11 @@ Riven Street specializes in systematic trading and research, applying quantitati
 
 Our work combines data-driven research, systematic frameworks, and disciplined execution to support better decision-making in dynamic market environments.
 
-> 📌 *Disclaimer: Riven Street provides curated insights for informational purposes only. This is not financial advice. Always conduct your own research and consult with a licensed professional before making any trading decisions.*
-
 ---
 
 ## **🎙️ Podcast**
 
-**Macro Playbook** — now streaming on Spotify
+**Macro Playbook**
 
 Systematic trading insights and market analysis focused on global macro trends. We break down economic data, policy shifts, and capital flows.
 

@@ -1,34 +1,18 @@
 ![Riven Street](https://repository-images.githubusercontent.com/966070756/9bf60f03-e809-451f-a60b-8f14f739fe02)
 
-## About Riven Street
+## Riven Street
 
-**Strategic Precision in Global Markets**
+Riven Street is a proprietary trading and research firm focused on systematic trading, quantitative research, and market analysis.
 
-Riven Street specializes in systematic trading and research, applying quantitative methods to identify and capitalize on global macro trends.
+## Public Resources
 
-Our work combines data-driven research, systematic frameworks, and disciplined execution to support better decision-making in dynamic market environments.
+- [Website](https://rivenstreet.com): Company overview and public information.
+- [Insights](https://rivenstreet.com/blog): Updates on the company, market trends, and quantitative finance.
+- [Podcast](https://open.spotify.com/show/2uo4tPdW29rqB9Shhd8hcK): Conversations on systematic trading and global macro strategies.
 
----
+## Contact
 
-## **Podcast**
+- [LinkedIn](https://linkedin.com/company/rivenstreet)
+- [Email](mailto:contact@rivenstreet.com)
 
-**Macro Playbook**
-
-Systematic trading insights and market analysis focused on global macro trends. We break down economic data, policy shifts, and capital flows.
-
-[Listen on Spotify](https://creators.spotify.com/pod/profile/rivenstreet)
-
----
-
-## **Insights**
-
-Curated research, trading frameworks, and market intelligence for disciplined traders and investors.
-
-[Read our insights](https://rivenstreet.com/blog)
-
----
-
-## **Connect**
-
-* [LinkedIn](https://www.linkedin.com/company/rivenstreet)
-* [Email](mailto:contact@rivenstreet.com)
+Public content is informational only and is not investment, legal, or tax advice.

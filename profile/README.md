@@ -10,25 +10,25 @@ Our work combines data-driven research, systematic frameworks, and disciplined e
 
 ---
 
-## **🎙️ Podcast**
+## **Podcast**
 
 **Macro Playbook**
 
 Systematic trading insights and market analysis focused on global macro trends. We break down economic data, policy shifts, and capital flows.
 
-🎧 [Listen on Spotify](https://creators.spotify.com/pod/profile/rivenstreet)
+[Listen on Spotify](https://creators.spotify.com/pod/profile/rivenstreet)
 
 ---
 
-## **📝 Insights**
+## **Insights**
 
 Curated research, trading frameworks, and market intelligence for disciplined traders and investors.
 
-🔗 [Read our insights](https://rivenstreet.com/blog)
+[Read our insights](https://rivenstreet.com/blog)
 
 ---
 
-## **📬 Connect**
+## **Connect**
 
 * [LinkedIn](https://www.linkedin.com/company/rivenstreet)
 * [Email](mailto:contact@rivenstreet.com)
